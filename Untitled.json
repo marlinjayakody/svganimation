@@ -1,0 +1,926 @@
+{
+	"DOMDocument" : {
+		"Shape" : [
+			{
+				"charid" : "1",
+				"path" : [
+					{
+						"color" : "#ffffff",
+						"colorOpacity" : "1",
+						"d" : "M 536 272 l 2 -4 l -523 0 l -2 4 l 523 0 ",
+						"pathType" : "Fill",
+						"stroke" : "none"
+					},
+					{
+						"color" : "#ffffff",
+						"colorOpacity" : "1",
+						"d" : "M 536.05 97 l 2 -4 l -523 0 l -2 4 l 523 0 ",
+						"pathType" : "Fill",
+						"stroke" : "none"
+					}
+				]
+			},
+			{
+				"charid" : "2",
+				"path" : [
+					{
+						"color" : "#ffffff",
+						"colorOpacity" : "1",
+						"d" : "M 87.85 32.3 q -1.05 -1.1 -2.65 -1.1 l -11.6 0 l -6.5 -14.15 q -0.35 -0.75 -1.1 -1.35 l -0.4 -0.4 q -2.05 -1.85 -4.85 -1.65 q -2.75 0.15 -4.6 2.2 l -19.3 21.75 q -1.7 1.9 -1.7 4.4 q 0 2.5 1.6 4.4 q 0.35 0.55 0.9 1.1 l -3 4.35 q -5.25 -2.9 -11.2 -2.9 q -9.65 0 -16.45 6.85 q -6.85 6.85 -6.85 16.5 q 0 9.65 6.85 16.45 q 6.8 6.85 16.45 6.85 q 8.95 0 15.6 -6.05 q 6.6 -6 7.55 -14.8 l 12.05 0 l 0 4.95 q 0 2.1 1.45 3.6 q 1.5 1.45 3.55 1.45 q 2.1 0 3.6 -1.45 q 1.45 -1.5 1.45 -3.6 l 0 -8.35 l 13.4 -20.95 l 2.55 3.95 q -3.95 3.25 -6.15 7.85 q -2.3 4.75 -2.3 10.1 q 0 9.65 6.85 16.45 q 6.8 6.85 16.45 6.85 q 9.65 0 16.45 -6.85 q 6.85 -6.8 6.85 -16.45 q 0 -9.65 -6.85 -16.5 q -6.8 -6.85 -16.45 -6.85 q -5.6 0 -10.65 2.6 l -3.45 -5.2 l 0 -7.65 q 1.5 -0.05 2.55 -1.15 q 1 -1.1 1 -2.6 q 0 -1.55 -1.1 -2.65 M 112.45 59.35 q 5.35 5.4 5.35 12.95 q 0 7.6 -5.35 12.95 q -5.35 5.35 -12.95 5.35 q -7.55 0 -12.9 -5.35 q -5.35 -5.4 -5.35 -12.95 q 0 -4.05 1.7 -7.7 q 1.6 -3.5 4.5 -6.05 l 9.95 15.1 q 0.75 1.15 2.1 1.15 q 0.7 0 1.4 -0.4 q 0.85 -0.6 1.05 -1.6 q 0.2 -1.05 -0.35 -1.9 l -9.95 -15.1 q 3.7 -1.8 7.85 -1.8 q 7.6 0 12.95 5.35 M 57.75 44.55 l -6.9 -2.55 l 12.8 -14.4 l 4.15 8.95 q 0.45 1 1.4 1.55 q 0.9 0.6 2 0.6 l 9.2 0 l 0 5.85 l -22.65 0 M 21.4 70.85 q -0.85 1.2 -0.2 2.6 q 0.75 1.35 2.25 1.35 l 18.1 0 q -0.9 6.7 -6.05 11.25 q -5.2 4.55 -12.05 4.55 q -7.55 0 -12.95 -5.35 q -5.35 -5.35 -5.35 -12.95 q 0 -7.55 5.35 -12.95 q 5.4 -5.35 12.95 -5.35 q 4.45 0 8.3 2 l -10.35 14.85 M 28.25 69.75 l 7.6 -10.9 q 4.8 4.45 5.7 10.9 l -13.3 0 M 76.65 49.6 l -7.95 12.45 l 0 -9.95 q 0 -1.35 -0.7 -2.5 l 8.65 0 M 58.65 69.75 l -12.05 0 q -0.5 -4.4 -2.55 -8.35 q -2.05 -3.85 -5.3 -6.7 l 3.55 -5.1 l 0.05 0 l 16.3 6 l 0 14.15 ",
+						"pathType" : "Fill",
+						"stroke" : "none"
+					}
+				]
+			},
+			{
+				"charid" : "3",
+				"path" : [
+					{
+						"color" : "#ffffff",
+						"colorOpacity" : "1",
+						"d" : "M 73.5 0.45 q -3.55 0 -6.1 2.5 q -2.5 2.5 -2.5 6.05 q 0 3.55 2.5 6.1 q 2.55 2.5 6.1 2.5 q 3.55 0 6.05 -2.5 q 2.5 -2.55 2.5 -6.1 q 0 -3.55 -2.5 -6.05 q -2.5 -2.5 -6.05 -2.5 ",
+						"pathType" : "Fill",
+						"stroke" : "none"
+					}
+				]
+			}
+		],
+		"Bitmaps" : [],
+		"Sounds" : [],
+		"Text" : [],
+		"Timeline" : [
+			{
+				"charid" : "8",
+				"frameCount" : "61",
+				"Frame" : [
+					{
+						"num" : "0",
+						"Command" : [
+							{
+								"cmdType" : "Place",
+								"charid" : "2",
+								"objectId" : "1",
+								"placeAfter" : "0",
+								"transformMatrix" : "1,0,0,1,-61.45,-48"
+							},
+							{
+								"cmdType" : "Place",
+								"charid" : "3",
+								"objectId" : "2",
+								"placeAfter" : "1",
+								"transformMatrix" : "1,0,0,1,-61.45,-48"
+							}
+						]
+					}
+				]
+			},
+			{
+				"charid" : "9",
+				"frameCount" : "60",
+				"Frame" : [
+					{
+						"num" : "0",
+						"Command" : [
+							{
+								"cmdType" : "Place",
+								"charid" : "2",
+								"objectId" : "1",
+								"placeAfter" : "0",
+								"transformMatrix" : "1,0,0,1,-61.45,-48"
+							},
+							{
+								"cmdType" : "Place",
+								"charid" : "3",
+								"objectId" : "2",
+								"placeAfter" : "1",
+								"transformMatrix" : "1,0,0,1,-61.45,-48"
+							}
+						]
+					}
+				]
+			},
+			{
+				"charid" : "10",
+				"frameCount" : "1",
+				"Frame" : [
+					{
+						"num" : "0",
+						"Command" : [
+							{
+								"cmdType" : "Place",
+								"charid" : "2",
+								"objectId" : "1",
+								"placeAfter" : "0",
+								"transformMatrix" : "1,0,0,1,-61.45,-48"
+							},
+							{
+								"cmdType" : "Place",
+								"charid" : "3",
+								"objectId" : "2",
+								"placeAfter" : "1",
+								"transformMatrix" : "1,0,0,1,-61.45,-48"
+							}
+						]
+					}
+				]
+			},
+			{
+				"frameCount" : "61",
+				"Frame" : [
+					{
+						"num" : "0",
+						"Command" : [
+							{
+								"cmdType" : "Place",
+								"charid" : "1",
+								"objectId" : "1",
+								"placeAfter" : "0",
+								"transformMatrix" : "1,0,0,1,0,0"
+							},
+							{
+								"cmdType" : "Place",
+								"charid" : "8",
+								"objectId" : "2",
+								"placeAfter" : "1",
+								"transformMatrix" : "0.579,0,0,0.579,69.45,240.4"
+							},
+							{
+								"cmdType" : "UpdateColorTransform",
+								"objectId" : "2",
+								"colorMatrix" : "1,0,1,0,1,0,1,0,"
+							},
+							{
+								"cmdType" : "Place",
+								"charid" : "9",
+								"objectId" : "3",
+								"placeAfter" : "2",
+								"transformMatrix" : "0.576,0,0,0.576,62.45,65.55"
+							},
+							{
+								"cmdType" : "UpdateColorTransform",
+								"objectId" : "3",
+								"colorMatrix" : "1,0,1,0,1,0,1,0,"
+							}
+						]
+					},
+					{
+						"num" : "1",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,84.049,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.576,0,0,0.576,69.854,65.604"
+							}
+						]
+					},
+					{
+						"num" : "2",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,98.599,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.576,0,0,0.576,77.11,65.561"
+							}
+						]
+					},
+					{
+						"num" : "3",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,113.149,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.576,0,0,0.576,84.465,65.566"
+							}
+						]
+					},
+					{
+						"num" : "4",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,127.699,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.576,0,0,0.576,91.822,65.573"
+							}
+						]
+					},
+					{
+						"num" : "5",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,142.249,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.576,0,0,0.576,99.128,65.579"
+							}
+						]
+					},
+					{
+						"num" : "6",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,156.799,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,106.483,65.585"
+							}
+						]
+					},
+					{
+						"num" : "7",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,171.349,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,113.839,65.591"
+							}
+						]
+					},
+					{
+						"num" : "8",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,185.899,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,121.146,65.598"
+							}
+						]
+					},
+					{
+						"num" : "9",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,200.449,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,128.501,65.603"
+							}
+						]
+					},
+					{
+						"num" : "10",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,214.999,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,135.857,65.56"
+							}
+						]
+					},
+					{
+						"num" : "11",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,229.549,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,143.112,65.565"
+							}
+						]
+					},
+					{
+						"num" : "12",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,244.099,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,150.469,65.572"
+							}
+						]
+					},
+					{
+						"num" : "13",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,258.649,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,157.823,65.577"
+							}
+						]
+					},
+					{
+						"num" : "14",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,273.249,240.446"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,165.13,65.584"
+							}
+						]
+					},
+					{
+						"num" : "15",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,287.801,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,172.485,65.589"
+							}
+						]
+					},
+					{
+						"num" : "16",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,302.351,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,179.841,65.596"
+							}
+						]
+					},
+					{
+						"num" : "17",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,316.901,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,187.146,65.551"
+							}
+						]
+					},
+					{
+						"num" : "18",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,331.451,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,194.503,65.508"
+							}
+						]
+					},
+					{
+						"num" : "19",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,346.001,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,201.859,65.514"
+							}
+						]
+					},
+					{
+						"num" : "20",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,360.551,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,209.115,65.521"
+							}
+						]
+					},
+					{
+						"num" : "21",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,375.101,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,216.47,65.526"
+							}
+						]
+					},
+					{
+						"num" : "22",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,389.651,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,223.827,65.533"
+							}
+						]
+					},
+					{
+						"num" : "23",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,404.201,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,231.132,65.538"
+							}
+						]
+					},
+					{
+						"num" : "24",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,418.751,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.577,0,0,0.577,238.488,65.545"
+							}
+						]
+					},
+					{
+						"num" : "25",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,433.301,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,245.843,65.55"
+							}
+						]
+					},
+					{
+						"num" : "26",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,447.851,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,253.15,65.507"
+							}
+						]
+					},
+					{
+						"num" : "27",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,462.401,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,260.504,65.512"
+							}
+						]
+					},
+					{
+						"num" : "28",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,476.951,240.454"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,267.811,65.519"
+							}
+						]
+					},
+					{
+						"num" : "29",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,491.45,240.4"
+							},
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,275.116,65.524"
+							}
+						]
+					},
+					{
+						"num" : "30",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,282.472,65.531"
+							}
+						]
+					},
+					{
+						"num" : "31",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,289.827,65.536"
+							}
+						]
+					},
+					{
+						"num" : "32",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,297.133,65.542"
+							}
+						]
+					},
+					{
+						"num" : "33",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,304.49,65.549"
+							}
+						]
+					},
+					{
+						"num" : "34",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,311.844,65.554"
+							}
+						]
+					},
+					{
+						"num" : "35",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,319.151,65.511"
+							}
+						]
+					},
+					{
+						"num" : "36",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,326.506,65.516"
+							}
+						]
+					},
+					{
+						"num" : "37",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,333.812,65.523"
+							}
+						]
+					},
+					{
+						"num" : "38",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,341.117,65.528"
+							}
+						]
+					},
+					{
+						"num" : "39",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,348.474,65.535"
+							}
+						]
+					},
+					{
+						"num" : "40",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,355.829,65.54"
+							}
+						]
+					},
+					{
+						"num" : "41",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,363.135,65.547"
+							}
+						]
+					},
+					{
+						"num" : "42",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,370.49,65.552"
+							}
+						]
+					},
+					{
+						"num" : "43",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.578,0,0,0.578,377.847,65.509"
+							}
+						]
+					},
+					{
+						"num" : "44",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,385.153,65.515"
+							}
+						]
+					},
+					{
+						"num" : "45",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,392.509,65.522"
+							}
+						]
+					},
+					{
+						"num" : "46",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,399.814,65.477"
+							}
+						]
+					},
+					{
+						"num" : "47",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,407.121,65.484"
+							}
+						]
+					},
+					{
+						"num" : "48",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,414.475,65.489"
+							}
+						]
+					},
+					{
+						"num" : "49",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,421.832,65.496"
+							}
+						]
+					},
+					{
+						"num" : "50",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,429.137,65.501"
+							}
+						]
+					},
+					{
+						"num" : "51",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,436.493,65.458"
+							}
+						]
+					},
+					{
+						"num" : "52",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,443.848,65.463"
+							}
+						]
+					},
+					{
+						"num" : "53",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,451.155,65.47"
+							}
+						]
+					},
+					{
+						"num" : "54",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,458.46,65.475"
+							}
+						]
+					},
+					{
+						"num" : "55",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,465.816,65.482"
+							}
+						]
+					},
+					{
+						"num" : "56",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,473.121,65.487"
+							}
+						]
+					},
+					{
+						"num" : "57",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,480.478,65.494"
+							}
+						]
+					},
+					{
+						"num" : "58",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,487.833,65.5"
+							}
+						]
+					},
+					{
+						"num" : "59",
+						"Command" : [
+							{
+								"cmdType" : "Move",
+								"objectId" : "3",
+								"transformMatrix" : "0.579,0,0,0.579,495.14,65.457"
+							}
+						]
+					},
+					{
+						"num" : "60",
+						"Command" : [
+							{
+								"cmdType" : "Remove",
+								"objectId" : "3"
+							},
+							{
+								"cmdType" : "Place",
+								"charid" : "10",
+								"objectId" : "4",
+								"placeAfter" : "2",
+								"transformMatrix" : "0.579,0,0,0.579,502.5,65.4"
+							},
+							{
+								"cmdType" : "UpdateColorTransform",
+								"objectId" : "4",
+								"colorMatrix" : "1,0,1,0,1,0,1,0,"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
